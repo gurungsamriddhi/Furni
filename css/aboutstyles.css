@@ -1,0 +1,30 @@
+.text_container {
+    display: flex;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(207, 233, 223);
+    color: black;
+    width: 100%;
+    
+    
+}
+
+.aboutus h4 {
+    padding-top: 10px;
+    font-size: 46px;
+    margin-bottom: -7px;
+    line-height: 2.2;
+    text-align: center;}
+
+.aboutus {
+    width: 60%;
+    
+    text-align: center; /* Center text for better alignment */
+}
+
+.aboutus p {
+    padding-left: 35px;
+    font-size: 16px;
+}
+

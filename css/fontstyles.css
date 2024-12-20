@@ -1,0 +1,81 @@
+.fa-truck {
+    width: 40px;
+    height: 40px;
+    font-size: 26px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #e8f6ea;
+    font-weight: 500;
+color:red
+}
+
+.fa-shopping-bag {
+    width: 40px;
+    height: 40px;
+    font-size: 26px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #e8f6ea;
+    font-weight: 500;
+    color:yellowgreen;
+
+}
+
+.fa-phone-square {
+    width: 40px;
+    height: 40px;
+    font-size: 26px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #e8f6ea;
+    font-weight: 500;
+    color:green;
+}
+
+.fa-thumbs-up {
+    width: 40px;
+    height: 40px;
+    font-size: 26px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #e8f6ea;
+    font-weight: 500;
+    color:rgb(29, 156, 191);
+}
+.fa-facebook-official
+{
+    font-size: 34px; 
+    color: rgb(29, 70, 191); 
+    transition: transform 0.2s ease; 
+}
+
+.fa-facebook-official:hover {
+    transform: scale(1.1); 
+}
+.fa-instagram
+{ 
+    font-size: 34px; 
+    color:rgb(206, 25, 152); 
+    transition: transform 0.2s ease; 
+}
+.fa-instagram:hover{
+    transform: scale(1.1);
+}
+.fa-twitter
+{
+    font-size: 34px; 
+    transition: transform 0.2s ease; 
+}
+.fa-twitter:hover{
+    transform: scale(1.1);
+}
+.fa-pinterest
+{
+    font-size: 34px; 
+   
+    transition: transform 0.2s ease; 
+    color:rgb(185, 11, 11);
+}
+.fa-pinterest:hover{
+    transform: scale(1.1);
+}

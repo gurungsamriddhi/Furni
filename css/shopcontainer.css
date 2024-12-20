@@ -1,0 +1,21 @@
+.Shop-container {
+    display: flex;
+    flex-wrap: wrap; /* Enable wrapping */
+    gap: 10px; /* Add spacing between items */
+    padding: 20px; /* Optional: Add padding around the container */
+}
+.shop-product-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-right: 30px;
+}
+
+
+
+
